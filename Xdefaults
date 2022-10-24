@@ -3,7 +3,7 @@ st.alpha: 1
 st.alphaOffset: 0
 
 !! Set a default font and font size as below:
-st.font: Monospace-12;
+st.font: Monospace-11;
 
 ! st.termname: st-256color
 ! st.borderpx: 2
@@ -11,7 +11,7 @@ st.font: Monospace-12;
 !! Set the background, foreground and cursor colors as below:
 
 !! gruvbox:
-*.color0: #1d2021
+/* *.color0: #1d2021
 *.color1: #cc241d
 *.color2: #98971a
 *.color3: #d79921
@@ -30,7 +30,6 @@ st.font: Monospace-12;
 *.background: #282828
 *.foreground: white
 *.cursorColor: white
-
 /* /1* !! gruvbox light: *1/ */
 /* *.color0: #fbf1c7 */
 /* *.color1: #cc241d */
